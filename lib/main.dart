@@ -1,3 +1,5 @@
+//Made with Love by Ramya Morla - rmorla1 002824625
+//Mahendra Krishna Koneru - mkoneru1 002824427
 import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:audioplayers/audioplayers.dart';
@@ -29,7 +31,7 @@ class AnimatedHeartbeatApp extends StatelessWidget {
       home: HeartbeatHomeScreen(),
     );
   }
-}
+} //this is heartbeat
 
 class HeartbeatHomeScreen extends StatefulWidget {
   @override
